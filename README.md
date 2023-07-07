@@ -1,4 +1,4 @@
-# "Under Construnction" Website Placeholder
+# "Under Construction" Website Placeholder
 
 - A placeholder for a site under construction
 - Based on <https://github.com/tmKamal/under-construction-template>
