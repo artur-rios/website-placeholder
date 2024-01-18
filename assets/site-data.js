@@ -4,12 +4,12 @@ export const siteData = {
     {
       icon: "fa fa-linkedin",
       color: "#0082ca",
-      link: "https://www.linkedin.com/in/artur-rso",
+      link: "https://www.linkedin.com/in/artur-rios",
     },
     {
       icon: "fa fa-github",
       color: "#333333",
-      link: "https://github.com/artur-rso",
+      link: "https://github.com/artur-rios",
     },
   ],
 };
